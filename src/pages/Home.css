@@ -1,0 +1,20 @@
+.personaje-card {
+  border-radius: 16px;
+  margin-bottom: 12px;
+}
+
+.personaje-avatar {
+  width: 64px;
+  height: 64px;
+}
+
+.personaje-avatar img {
+  object-fit: cover;
+}
+
+.badges {
+  display: flex;
+  gap: 8px;
+  margin-top: 6px;
+}
+
